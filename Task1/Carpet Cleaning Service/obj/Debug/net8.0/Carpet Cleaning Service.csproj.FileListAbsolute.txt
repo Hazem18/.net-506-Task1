@@ -1,0 +1,14 @@
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.exe
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.deps.json
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.runtimeconfig.json
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.dll
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\bin\Debug\net8.0\Carpet Cleaning Service.pdb
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.AssemblyInfoInputs.cache
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.AssemblyInfo.cs
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.csproj.CoreCompileInputs.cache
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.dll
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\refint\Carpet Cleaning Service.dll
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.pdb
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\Carpet Cleaning Service.genruntimeconfig.cache
+C:\Users\حازم\source\repos\Task1\Carpet Cleaning Service\obj\Debug\net8.0\ref\Carpet Cleaning Service.dll
